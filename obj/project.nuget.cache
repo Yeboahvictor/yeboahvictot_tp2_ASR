@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rn8svitiC4NlcWsLXAgIGMDTr9ydF/I+AWEaYjVpBcsBAQMJ9bREoyPt6AUudN42p9Moz/JvgtantJWDfTHAvQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\yeboa\\Downloads\\s3\\c#\\devoirs\\Géométrie\\Geometrie\\Geometrie.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.NETCore.App.Host.win-x64"
+    }
+  ]
+}

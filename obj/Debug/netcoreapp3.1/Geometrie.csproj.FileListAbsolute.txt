@@ -1,0 +1,14 @@
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\obj\Debug\netcoreapp3.1\Geometrie.csproj.AssemblyReference.cache
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\obj\Debug\netcoreapp3.1\Geometrie.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\obj\Debug\netcoreapp3.1\Geometrie.AssemblyInfoInputs.cache
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\obj\Debug\netcoreapp3.1\Geometrie.AssemblyInfo.cs
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\obj\Debug\netcoreapp3.1\Geometrie.csproj.CoreCompileInputs.cache
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\bin\Debug\netcoreapp3.1\Geometrie.exe
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\bin\Debug\netcoreapp3.1\Geometrie.deps.json
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\bin\Debug\netcoreapp3.1\Geometrie.runtimeconfig.json
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\bin\Debug\netcoreapp3.1\Geometrie.runtimeconfig.dev.json
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\bin\Debug\netcoreapp3.1\Geometrie.dll
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\bin\Debug\netcoreapp3.1\Geometrie.pdb
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\obj\Debug\netcoreapp3.1\Geometrie.dll
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\obj\Debug\netcoreapp3.1\Geometrie.pdb
+D:\windows_back_up\est\s3\c#\devoirs\Géométrie\Geometrie\obj\Debug\netcoreapp3.1\Geometrie.genruntimeconfig.cache
